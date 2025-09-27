@@ -1,0 +1,5 @@
+[
+  "jinja2.ext.do",
+  "jinja2.ext.loopcontrols",
+  "jinja_try_catch.TryCatchExtension"
+]

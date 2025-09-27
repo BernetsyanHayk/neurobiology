@@ -1,0 +1,35 @@
+# FastAPI framework
+fastapi
+
+# ASGI server
+uvicorn[all]
+
+# Database (SQLAlchemy ORM)
+SQLAlchemy
+databases
+
+# Database drivers
+psycopg2-binary            # PostgreSQL driver
+
+# Authentication & Security
+python-jose               # JWT handling
+passlib[bcrypt]            # Password hashing
+
+# Data validation
+pydantic
+email-validator
+
+# Environment variables
+python-dotenv
+
+# Database migrations
+alembic
+
+# HTTP client (async requests)
+httpx
+
+# Testing
+pytest
+pytest-asyncio
+
+slowapi
