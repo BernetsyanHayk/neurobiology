@@ -1,9 +1,5 @@
 {
     "routes": [
-        "backend.routes.users",
-        "backend.routes.devices",
-        "backend.routes.labs",
-        "backend.routes.reports",
-        "backend.routes.doctors"
+        "backend.routes.users"
     ]
 }

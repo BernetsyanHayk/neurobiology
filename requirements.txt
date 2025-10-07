@@ -33,3 +33,5 @@ pytest
 pytest-asyncio
 
 slowapi
+
+asyncpg
